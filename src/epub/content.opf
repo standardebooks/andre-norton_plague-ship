@@ -43,9 +43,10 @@
 		<meta property="term" refines="#subject-4">sh94006313</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;LONG_DESCRIPTION&lt;/p&gt;
+			<p>After an unusual mission trading catnip to the catlike Salariki of planet Sargol, Dane Thorson and other low-ranking crew members of the <i>Solar Queen</i> watch in horror as the rest of their crew falls mysteriously ill. Only the four men left standing — and maybe the Captain’s bizarre pet Hoobat — can save their ship from drifting through space for all time, condemned as a plague ship.</p>
+			<p>Originally published by Gnome Press in 1956 under the name Andrew North, <i>Plague Ship</i> is the second installment in the <i>Solar Queen</i> series of science fiction novels by Andre Norton, the male pseudonym of Alice Mary Norton.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16921</dc:source>
