@@ -6,4 +6,10 @@
 			<reason>Dashes in abbreviations are a matter of far-future prose style.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>t-032</code>
+			<reason>The unique abbreviation style means the period placement is correct outside of the abbreviation.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
