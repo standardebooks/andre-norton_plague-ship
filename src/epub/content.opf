@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-4">sh94006313</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta property="belongs-to-collection" id="collection-1">Solar Queen</meta>
+		<meta id="collection-1" property="belongs-to-collection">Solar Queen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.</dc:description>
