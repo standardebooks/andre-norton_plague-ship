@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/16921</dc:source>
 		<dc:source>https://archive.org/details/plagueship00nort</dc:source>
 		<meta property="se:word-count">61515</meta>
-		<meta property="se:reading-ease.flesch">71.44</meta>
+		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Plague_Ship</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_plague-ship</meta>
 		<dc:creator id="author">Andre Norton</dc:creator>
