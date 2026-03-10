@@ -7,6 +7,7 @@
 	</file>
 	<file path="chapter-4.xhtml">
 		<ignore code="t-032">
+			<line>32</line>
 			<reason>The unique abbreviation style means the period placement is correct outside of the abbreviation.</reason>
 		</ignore>
 	</file>
