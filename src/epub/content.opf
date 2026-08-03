@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/andre-norton/plague-ship</dc:identifier>
 		<dc:date>2020-02-26T00:18:02Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Solar Queen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>When the rest of their crew falls mysteriously ill after a trading mission, four low-ranking crew members must save their ship from being condemned to drift forever in permanent quarantine.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After an unusual mission trading catnip to the catlike Salariki of planet Sargol, Dane Thorson and other low-ranking crew members of the &lt;i&gt;Solar Queen&lt;/i&gt; watch in horror as the rest of their crew falls mysteriously ill. Only the four men left standing—and maybe the Captain’s bizarre pet Hoobat—can save their ship from drifting through space for all time, condemned as a plague ship.&lt;/p&gt;
 			&lt;p&gt;Originally published by Gnome Press in 1956 under the name Andrew North, &lt;i&gt;Plague Ship&lt;/i&gt; is the second installment in the &lt;i&gt;Solar Queen&lt;/i&gt; series of science fiction novels by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt;, the male pseudonym of Alice Mary Norton.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16921</dc:source>
 		<dc:source>https://archive.org/details/plagueship00nort</dc:source>
